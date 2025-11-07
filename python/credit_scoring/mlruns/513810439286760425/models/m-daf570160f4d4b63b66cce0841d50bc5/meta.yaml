@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Santiago%20Parra/Documents/DEEP%20LEARNING/STXVXN_services/python/credit_scoring/mlruns/513810439286760425/models/m-daf570160f4d4b63b66cce0841d50bc5/artifacts
+creation_timestamp: 1762302834544
+experiment_id: '513810439286760425'
+last_updated_timestamp: 1762302839467
+model_id: m-daf570160f4d4b63b66cce0841d50bc5
+model_type: null
+name: model
+source_run_id: 34ba9634cb044aafaee5f4ed5cbff6fe
+status: 2
+status_message: null
